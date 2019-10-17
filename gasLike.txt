@@ -7,13 +7,13 @@
 #    A Patel, BJ Boersma, R Pecnik,
 #    Physical Review Fluids 2 (8), 084604, 2017
 #
-#    Scaling and modelling of turbulence in variable property channel flows
+#    Scaling and modelling of turbulence in variable property channel flows
 #    R Pecnik, A Patel,
 #    Journal of Fluid Mechanics 823, 2017
 #
 #    The influence of near-wall density and viscosity gradients on turbulence in channel flows
 #    A Patel, BJ Boersma, R Pecnik,
-#    Journal of Fluid Mechanics 809, 793–820, 2016
+#    Journal of Fluid Mechanics 809, 793-820, 2016
 #
 #    Semi-local scaling and turbulence modulation in variable property turbulent channel flows
 #    A Patel, JWR Peeters, BJ Boersma, R Pecnik
